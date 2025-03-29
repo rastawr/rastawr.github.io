@@ -17,7 +17,7 @@ The purpose of this study was to determine the how different users felt about di
 
 ### TurnKey Learning HealthCare Portal
 
-I worked with the folks at TurnKey Learning to make a software application that allows medical workers to record their patients' diagnoses. The user interface is different for each level of worker in a way that is tailored to their job description. It also visualizes the data from the patients in multiple forms, such as tables and line, bar, and pie charts, and scatterplots. While I am under a non-disclosure agreement, you can learn more about Turnkey Learning HERE.
+I worked with the folks at TurnKey Learning to make a software application that allows medical workers to record their patients' diagnoses. The user interface is different for each level of worker in a way that is tailored to their job description. It also visualizes the data from the patients in multiple forms, such as tables and line, bar, and pie charts, and scatterplots. While I am under a non-disclosure agreement, you can learn more about Turnkey Learning <a href="https://turnkeylearning.com/industries/healthcare/">here</a>.
 
 ### Three Little Pigs: RELOADED
 
