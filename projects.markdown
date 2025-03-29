@@ -28,7 +28,7 @@ My next plan of action for this game is to resize the boundries to make it more 
 
 Grandpa is Gone is a 2D side-scrolling platforming game made for the 2023 GamesForSocialImpact Game Jam! Grandpa is Gone follows a boy named Carl who's grandpa suddenly disappeared. In looking for him, he finds an amulet that lets him turn into his grandpa! As he navigates different puzzles, he learns that he can be his own grandpa, and that his grandfather being gone does not mean that Carl is alone.
 
-This game won the awared for Best Narrative Design!
+This game won the award for Best Narrative Design!
 
 ### Copyright Strike
 
