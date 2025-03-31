@@ -26,10 +26,22 @@ My next plan of action for this game is to resize the boundries to make it more 
 
 ### Grandpa is Gone
 
-Grandpa is Gone is a 2D side-scrolling platforming game made for the 2023 GamesForSocialImpact Game Jam! Grandpa is Gone follows a boy named Carl who's grandpa suddenly disappeared. In looking for him, he finds an amulet that lets him turn into his grandpa! As he navigates different puzzles, he learns that he can be his own grandpa, and that his grandfather being gone does not mean that Carl is alone.
+<a href="https://justaglitch.itch.io/grandpa-is-gone">Grandpa is Gone</a> is a 2D side-scrolling platforming game made for the 2023 GamesForSocialImpact Game Jam! Grandpa is Gone follows a boy named Carl who's grandpa suddenly disappeared. In looking for him, he finds an amulet that lets him turn into his grandpa! As he navigates different puzzles, he learns that he can be his own grandpa, and that his grandfather being gone does not mean that Carl is alone.
 
 This game won the award for Best Narrative Design!
 
 ### Copyright Strike
 
-Copyright Strike is a 2D top-down hack-and-slash made for the 2024 GamesForSocialImpact Game Jam. It follows Robin, a young goblin who has an idea for what could be a revolutionary product! However, upon trying to publish it, he's told that someone already patented not the idea itself, but rather the entire category that the idea falls under! It was made with two other programmers, an artist, and a storywriter. A lot was planned for this game, but due to the nature of game jams, we weren't able to get a lot of it into the final cut. That being said, we still want to flesh this project out in the future. The itch.io page containing the artwork and storyline seems to have dissappeared on us. We are working to get it back up, but in the meantime, the art and story files can (soon) be found at the bottom of this section. That being said, I'd like to talk about what all we had planned in terms of game mechanics (the planned narrative and artwork can be found on the itch.io page!):
+Copyright Strike is a 2D top-down hack-and-slash game made for the 2024 GamesForSocialImpact Game Jam. It follows Robin, a young goblin who has an idea for what could be a revolutionary product! However, upon trying to publish it, he's told that some CEO already patented not the idea itself, but rather the entire category that the idea falls under. So what does Robin do in response? He goes to the CEO's headquarters with his trusty club, and strikes everyone with it until he reaches the CEO!
+
+This game was made with two other programmers, an artist, and a storywriter. A lot was planned for this game, but due to the nature of game jams, we weren't able to get a lot of it into the final cut. That being said, we still want to flesh this project out in the future. The itch.io page containing the artwork and storyline seems to have dissappeared on us. We are working to get it back up, but in the meantime, I'd like to talk about what we had planned in terms of game mechanics:
+* The ablity to choose the type of product that Robin wants to make at the beginning of the game.
+    *  This choice would give Robin a corresponding advantage, similiar to how you can choose from a few starter boons/relics in some Roguelike games. We had two product categories in mind:
+        1. A pharmasuetical product: this would give Robin a high amount of health points.
+        2. A technological product: this would allow Robin to deal a high amount of damage.
+* The ability to choose whether to kill or spare an worker (the enemy) after beating them
+    * This would of course have an effect on the gameplay, but we quickly realized we would have to forgo this idea in the interest of time.
+* After clearing each stage room, Robin's bat would become comically larger, allowing him to have more reach.
+* A final boss: Steve Gobbs, the CEO who put a patent on the entire field of either tenchology or medicine.
+
+<img src="/assets/images/copyight_strike_logo.png" alt="The Game's Logo" height = "150"> <img src="/assets/images/robin_spritesheet.png" alt="Robin, the Main Character" height = "150"> 
