@@ -22,8 +22,8 @@ I worked with the folks at TurnKey Learning to make a software application that 
 ### Three Little Pigs: RELOADED
 
 Three Little Pigs: RELOADED is a 2D top-down bullet-hell game that follows the story of the Three Little Pigs from the wolf's perspective, except in this timeline, the pigs are armed! The wolf needs to blow each house down by shooting puffs of air while dodging the bullets fired by the pig. There are three houses to blow down, and because each pig runs to the next house when theirs is blown down, each house has more pigs firing at the wolf!
-My main focus was on implementing the projectiles and their movement patterns.
-If I were to continue development for this game, my next plan of action would be to resize the boundries to make it more vertical. This way, the bullets would have less power in restricting the wolf's movement, meaning that I could give each pig a secondary attack! Once this is implemented, there would be enough projectiles being spawned and destroyed that I would have to worry about memory management. The next step would thus be to use object pools to reuse instances of projectiles that are no longer active in the gamescene, thus minimizing the amount of allocations and garbage collections 
+
+My main focus was on implementing the projectiles and their movement patterns. If I were to continue development for this game, my next plan of action would be to resize the boundries to make it more vertical. This way, the bullets would have less power in restricting the wolf's movement, meaning that I could give each pig a secondary attack! Once this is implemented, there would be enough projectiles being spawned and destroyed that I would have to worry about memory management. The next step would thus be to use object pools to reuse instances of projectiles that are no longer active in the gamescene, thus minimizing the amount of allocations and garbage collections 
 
 ### Grandpa is Gone
 
