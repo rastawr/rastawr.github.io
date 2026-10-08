@@ -10,42 +10,49 @@ These are a few of the projects I have worked on recently!
 [FOR ALL OF THE BELOW]: figure out how to embed images(and maybe videos)
 [FOR ALL OF THE BELOW]: Figure out how to embed links
 
-### Playable Archive 
+<details>
+<summary> <h2> Playable Archive </h2> </summary>
 
-I have done both Research and Development for <a href="https://www.playablearchive.com">The Playable Archive</a>, which displays existing online archives in the form of a virtual museum in order to garner more interest in the archive's contents.
+I have done both Research and Development for <a href="https://www.playablearchive.com">The Playable Archive</a>, which displays existing online archives in the form of a virtual museum in order to garner more interest in the archive's contents. It can be played on a VR headset or on a regular device. The Playable Archive currently hosts images from the "Teenie Harris Archive".
 
-## Development
+<h3>Development</h3>
+In preparation for the Locomotion study, <b>I helped to build an On-Rails form of moving around the museum (think of it like a controllable rollercoaster), as well as the UI that displays the instructions for the step of the study the user is currently on.</b> The results from user interviews helped to determine the locomotion system for the "Teenie Harris Archive", and will also be used for the "Story Worlds 3D" project, which is focused on visualizing stories from Ecuador.
 
- **I helped to build the On-Rails form of movement within a museum environment from the "Teenie Harris Archive"**, a project focused on displaying historical pieces by the Pittsburgh photographer Teenie Harris, as well as the UI that displays and explains the instructions for the step of the study the user is currently on. The results from user interviews helped to determine the locomotion system for the "Teenie Harris Archive", and will also be used for the "Story Worlds 3D" project, which is focused on visualizing stories from Ecuador.
+As part of building the On-Rails movement system, I did the following:
 
-## Research
-### VR Locomotion Study
+As part of implementing the instruction display, I did the following:
+<ul> 
+    <li> Used Collision Detection to determine when the participant has found their target. </li>
+    <li> Allowed the instructions and the targets to be passed in as arguments from either the Unity editor or by another function. </li>
+</ul>
+
+<h3>Research</h3>
+ 
+
+<h3>VR Locomotion Study</h3>
 
 The purpose of this study was to determine how different users felt about different ways of moving in a virtual environment! I helped to build the On-Rails form of movement within a museum environment from the "Teenie Harris Archive", a project focused on displaying historical pieces by the Pittsburgh photographer Teenie Harris, as well as the UI that displays and explains the instructions for the step of the study the user is currently on. The results from user interviews will help to determine the locomotion system for the "Teenie Harris Archive", and will also be used for the "Story Worlds 3D" project, which is focused on visualizing stories from Ecuador. In being used for these two projects, this study will also serve as a basis for "The Playable Archive", which is a museum in virtual space that contains contents from existing archives.
 
+</details>
 [add screenshots]: and maybe make a video
 
-### Playable Archive Study
+## TurnKey Learning HealthCare Portal
 
-The Playable Archive 
+I worked with the folks at <a href="https://www.turnkeylearning.com/products/trial-trak">TurnKey</a> Learning to make a software application that allows medical workers to record their patients' diagnoses. The user interface is different for each level of worker in a way that is tailored to their job description. It also visualizes the data from the patients in multiple forms, such as tables and line, bar, and pie charts, as well as scatter plots.
 
-### TurnKey Learning HealthCare Portal
-
-I worked with the folks at TurnKey Learning to make a software application that allows medical workers to record their patients' diagnoses. The user interface is different for each level of worker in a way that is tailored to their job description. It also visualizes the data from the patients in multiple forms, such as tables and line, bar, and pie charts, as well as scatter plots. While I am under a non-disclosure agreement, you can learn more about Turnkey Learning <a href="https://turnkeylearning.com/industries/healthcare/">here</a>.
-
-### Three Little Pigs: RELOADED
+## Three Little Pigs: RELOADED
 
 Three Little Pigs: RELOADED is a bullet-hell game that follows the story of the Three Little Pigs from the wolf's perspective, except in this timeline, the pigs are armed! The wolf needs to blow each house down by shooting puffs of air while dodging the bullets fired by the pigs. There are three houses to blow down, and because each pig runs to the next house when theirs is blown down, each house has more pigs firing at the wolf!
 
 **My main focus was on implementing the projectiles and their movement patterns.** If I were to continue development for this game, my next plan of action would be to resize the boundaries to make it more vertical. This way, the bullets would have less power in restricting the wolf's movement, meaning that I could give each pig a secondary attack! Once this is implemented, there would be enough projectiles being spawned and destroyed that I would have to worry about memory management. The next step would thus be to use object pools to reuse instances of projectiles that are no longer active in the game scene, thus minimizing the amount of allocations and garbage collections being performed.
 
-### Grandpa is Gone
+## Grandpa is Gone
 
 <a href="https://justaglitch.itch.io/grandpa-is-gone">Grandpa is Gone</a> is a 2D side-scrolling platforming game made for the 2023 GamesForSocialImpact Game Jam! Grandpa is Gone follows a boy named Carl who's grandpa suddenly disappeared. In looking for him, he finds an amulet that lets him turn into his grandpa! As he navigates different puzzles, he learns that he can be his own grandpa, and that his grandfather being gone does not mean that Carl is alone.
 
 This game won the award for Best Narrative Design!
 
-### Copyright Strike
+## Copyright Strike
 
 Copyright Strike is a 2D top-down hack-and-slash game made for the 2024 GamesForSocialImpact Game Jam. It follows Robin, a young goblin who has an idea for what could be a revolutionary product! However, upon trying to publish it, he's told that some CEO already patented not the idea itself, but rather the entire category that the idea falls under. So what does Robin do in response? He goes to the CEO's headquarters with his trusty club, and strikes everyone with it until he reaches the CEO!
 
