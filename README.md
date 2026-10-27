@@ -1,4 +1,4 @@
-# Nickhil Niranjan's Portfolio - Multi-Version Jekyll Site
+# Rastawr's Portfolio - Multi-Version Jekyll Site
 
 A Jekyll-based portfolio website with support for multiple versions (stable, v1, v2) deployed to GitHub Pages.
 
