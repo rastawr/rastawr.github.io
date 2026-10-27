@@ -20,7 +20,7 @@ A Jekyll-based portfolio website with support for multiple versions (stable, v1,
 └── .gitignore
 ```
 
-## Local Development
+## Local Development 
 
 ### Prerequisites
 - Ruby 3.3+
