@@ -1,6 +1,6 @@
 #!/bin/bash
 # Build script for multi-site Jekyll setup
-# Builds stable, v1, and v2 sites
+# Builds stable (to root), v1, and v2 sites
 
 set -e  # Exit on error
 
@@ -11,6 +11,11 @@ build_site() {
     local site_name=$1
     local site_dir="sites/$site_name"
     local dest_dir="_site/$site_name"
+
+    # Special case: stable builds to root (_site/) not _site/stable/
+    if [ "$site_name" = "stable" ]; then
+        dest_dir="_site"
+    fi
 
     echo "Building $site_name..."
 
@@ -36,7 +41,7 @@ cp -r shared/content _site/shared/
 
 echo "=== All sites built successfully! ==="
 echo "Output structure:"
-echo "  _site/stable/  -> deployed to root (username.github.io/)"
+echo "  _site/         -> stable site deployed to root (username.github.io/)"
 echo "  _site/v1/      -> deployed to /v1/"
 echo "  _site/v2/      -> deployed to /v2/"
 echo "  _site/shared/  -> shared assets at /shared/"
